@@ -4,6 +4,6 @@ description: "Provides a Views plugin for displaying content in a Masonry layout
 package: Masonry
 core_version_requirement: ^8 || ^9 || ^10 || ^11
 dependencies:
-  - masonry:masonry (>=4.x)
+  - masonry:masonry (*)
   - drupal:views
 
